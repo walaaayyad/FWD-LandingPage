@@ -1,7 +1,7 @@
 # Front End Nanodegree Program
 
 ## FIRST PROJECT [Landing Page]
-
+Go to live page [https://walaaayyad.github.io/FWD-LandingPage/]
 ## Project Featurs
 - You can add a new section to the page by using (Add New Section) button
 - When you click on the section name in the navbar it goes to this section 
